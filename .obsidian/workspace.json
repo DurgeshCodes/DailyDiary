@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "f1885f2ac79f3b99",
+    "type": "split",
+    "children": [
+      {
+        "id": "3254e0f19926f636",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7b9af41d5954f11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problem Of the Day/Design MinMax Queue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Design MinMax Queue"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "83a74e66b7f920b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "471b7b06948d2ed5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70b7cbfc0bad4003",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8e79af65164d86da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "142307019afb145e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "21e4ea8029430785",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0279c60fff55903",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16c09545270a82ea",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "03fdf34cb8c9c394",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5. Picking the right Database.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 5. Picking the right Database"
+            }
+          },
+          {
+            "id": "c110a865c8250ee2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DSA/Dynamic Programming.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Dynamic Programming"
+            }
+          },
+          {
+            "id": "96e03ea26d1f8931",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d478bd2ab4f68ef6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5. Picking the right Database.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 5. Picking the right Database"
+            }
+          },
+          {
+            "id": "45f97f67dfe9cb5c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "b7a67136917f8a3f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 527.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a7b9af41d5954f11",
+  "lastOpenFiles": [
+    "Problem Of the Day/Design MinMax Queue.md",
+    "Problem Of the Day/Fraction to Recurring Decimal.md",
+    "Problem Of the Day",
+    "Templates/Reading_Template.md",
+    "Templates/DSA_Template.md",
+    "System Design Reading/01 Uber Backend.md",
+    "System Design Reading/index.md",
+    "System Design Reading/{{url}}.md",
+    "Templates",
+    "System Design Reading",
+    "DSA/Sliding Window.md",
+    "HLD/6. Rabbit MQ.md",
+    "HLD/6. Message Queues.md",
+    "DSA/Untitled 2.md",
+    "DSA.zip",
+    "DSA/Index.md",
+    "DSA/Two Pointer.md",
+    "LLD/Introduction/SOLID.md",
+    "LLD/Introduction/Access Modifiers.md",
+    "LLD/SOLID",
+    "LLD/Introduction/Abstraction.md",
+    "LLD/Introduction/Encapsulation.md",
+    "LLD/Introduction/Inheritance.md",
+    "LLD/Introduction/Polymorphism.md",
+    "LLD/Introduction",
+    "LLD",
+    "DSA/Graph.md",
+    "Assets/Graph 2025-06-02 23.53.47.excalidraw.md",
+    "Assets/Graph 2025-06-01 23.30.54.excalidraw.md",
+    "DSA/Drawing 2025-06-01 22.58.07.excalidraw.md",
+    "DSA/Array & Hashing.md",
+    "DSA/Map.md",
+    "DSA/Binary Search.md",
+    "Assets/Pasted image 20250423201630.png",
+    "Assets/Pasted image 20250423201127.png",
+    "Assets/Pasted image 20250423200722.png",
+    "Assets/Pasted image 20250423131013.png",
+    "Devops",
+    "Assets/Sliding Window 2024-02-06 23.32.53.excalidraw.png",
+    "Assets/2.jpg",
+    "Assets/1.jpg",
+    "HLD",
+    "Assets/pasted image 0.png",
+    "Assets/1_cxXPgxw5imaniGnNScef5g.jpg",
+    "Assets/1-300x188.png",
+    "Excalidraw",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

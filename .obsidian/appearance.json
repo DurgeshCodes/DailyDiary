@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "translucency": false,
+  "cssTheme": "Material Gruvbox",
+  "baseFontSize": 15,
+  "enabledCssSnippets": [
+    "image-background"
+  ]
+}
