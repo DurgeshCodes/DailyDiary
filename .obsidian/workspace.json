@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3254e0f19926f636",
+        "id": "7e4fb217c90d1794",
         "type": "tabs",
         "children": [
           {
-            "id": "a7b9af41d5954f11",
+            "id": "6de0ba23c902d1c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ],
@@ -185,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 527.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,17 +199,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7b9af41d5954f11",
+  "active": "70b7cbfc0bad4003",
   "lastOpenFiles": [
-    "Problem Of the Day/Design MinMax Queue.md",
+    "Problem Of the Day/25-09-2025/Triangle.md",
+    "Problem Of the Day/25-09-2025/Generate Binary Numbers.md",
+    "System Design Reading/index.md",
+    "Problem Of the Day/25-09-2025",
+    "Problem Of the Day/24-09-2025",
+    "System Design Reading/01 Uber Backend.md",
     "README.md",
+    "Problem Of the Day/24-09-2025/Design MinMax Queue.md",
     "Durgesh_Birmiwal___Resume-68811757698862.pdf",
-    "Problem Of the Day/Fraction to Recurring Decimal.md",
+    "Problem Of the Day/24-09-2025/Fraction to Recurring Decimal.md",
     "Problem Of the Day",
     "Templates/Reading_Template.md",
     "Templates/DSA_Template.md",
-    "System Design Reading/01 Uber Backend.md",
-    "System Design Reading/index.md",
     "System Design Reading/{{url}}.md",
     "Templates",
     "System Design Reading",
@@ -237,17 +237,13 @@
     "Assets/Graph 2025-06-02 23.53.47.excalidraw.md",
     "Assets/Graph 2025-06-01 23.30.54.excalidraw.md",
     "DSA/Drawing 2025-06-01 22.58.07.excalidraw.md",
-    "DSA/Array & Hashing.md",
-    "DSA/Map.md",
     "Assets/Pasted image 20250423201630.png",
     "Assets/Pasted image 20250423201127.png",
     "Assets/Pasted image 20250423200722.png",
     "Assets/Pasted image 20250423131013.png",
-    "Devops",
     "Assets/Sliding Window 2024-02-06 23.32.53.excalidraw.png",
     "Assets/2.jpg",
     "Assets/1.jpg",
-    "HLD",
     "Assets/pasted image 0.png",
     "Assets/1_cxXPgxw5imaniGnNScef5g.jpg",
     "Assets/1-300x188.png",
