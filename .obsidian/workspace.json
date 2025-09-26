@@ -11,13 +11,32 @@
             "id": "6de0ba23c902d1c8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Problem Of the Day/26-09-2025/Valid Triangle Number.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Valid Triangle Number"
+            }
+          },
+          {
+            "id": "80c9d8dbc354c9f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problem Of the Day/26-09-2025/Rotate Deque By K.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rotate Deque By K"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -199,8 +218,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70b7cbfc0bad4003",
+  "active": "80c9d8dbc354c9f5",
   "lastOpenFiles": [
+    "Problem Of the Day/26-09-2025/Valid Triangle Number.md",
+    "Problem Of the Day/26-09-2025/Rotate Deque By K.md",
+    "Problem Of the Day/26-09-2025",
     "Problem Of the Day/25-09-2025/Triangle.md",
     "Problem Of the Day/25-09-2025/Generate Binary Numbers.md",
     "System Design Reading/index.md",
@@ -232,11 +254,8 @@
     "LLD/Introduction/Inheritance.md",
     "LLD/Introduction/Polymorphism.md",
     "LLD/Introduction",
-    "LLD",
     "DSA/Graph.md",
     "Assets/Graph 2025-06-02 23.53.47.excalidraw.md",
-    "Assets/Graph 2025-06-01 23.30.54.excalidraw.md",
-    "DSA/Drawing 2025-06-01 22.58.07.excalidraw.md",
     "Assets/Pasted image 20250423201630.png",
     "Assets/Pasted image 20250423201127.png",
     "Assets/Pasted image 20250423200722.png",
